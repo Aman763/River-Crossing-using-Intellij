@@ -1,4 +1,4 @@
-# R# RiverCrossing
+# RiverCrossing
 
 This is the code for River Crossing game.
 
